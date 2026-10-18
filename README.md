@@ -15,12 +15,9 @@ Games available through Aftergrave:
 Windows 10/11, 64-bit. A single file: run it, pick where to install the game,
 press **Install**.
 
-🍏 **[Download Aftergrave Launcher for macOS](https://github.com/anikin-devops/aftergrave-releases/releases/download/v0.1.0/AftergraveLauncher-macOS.zip)**
+🍏 **[Download Aftergrave Launcher for macOS](https://github.com/anikin-devops/aftergrave-releases/releases/latest/download/AftergraveLauncher-macOS.zip)**
 macOS 12.0 or later, Apple silicon and Intel. Extract the ZIP and move
 `Aftergrave Launcher.app` to Applications; follow the first-launch steps below.
-
-HPTCG: Arena's macOS launcher content is not published yet. Until its signed
-macOS release pointer is available, use [the game's manual Mac download](https://github.com/anikin-devops/hptcg-arena).
 
 All versions are under
 [Releases](https://github.com/anikin-devops/aftergrave-releases/releases).
