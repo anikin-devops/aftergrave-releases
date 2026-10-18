@@ -11,10 +11,16 @@ Games available through Aftergrave:
 
 ## Download
 
-**No launcher release is available yet.** Builds will appear under
-[Releases](https://github.com/anikin-devops/aftergrave-releases/releases).
-Until then, HPTCG: Arena is installed from
+🪟 **[Download Aftergrave Launcher for Windows](https://github.com/anikin-devops/aftergrave-releases/releases/latest/download/AftergraveLauncher.exe)**
+Windows 10/11, 64-bit. A single file: run it, pick where to install the game,
+press **Install**.
+
+🍏 **macOS**: coming soon. Until then, install HPTCG: Arena on a Mac from
 [its own download page](https://github.com/anikin-devops/hptcg-arena).
+
+All versions are under
+[Releases](https://github.com/anikin-devops/aftergrave-releases/releases).
+A running launcher tells you when a newer launcher is available.
 
 ## How updates work
 
