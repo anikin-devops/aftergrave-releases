@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/aftergrave-games-white-logo.png">
+    <img src="assets/aftergrave-games-black-logo.png" alt="Aftergrave Games" width="320">
+  </picture>
+</p>
+
 # Aftergrave Launcher
 
 Aftergrave Launcher installs and updates games for Windows and macOS. It
