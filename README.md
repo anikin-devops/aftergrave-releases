@@ -43,14 +43,16 @@ A running launcher tells you when a newer launcher is available.
 
 ## Security notes
 
-The launcher is not signed with a commercial code-signing certificate and is not
-notarized by Apple. On first launch:
+The launcher is not yet signed by Microsoft or notarized by Apple (that needs paid
+developer accounts), so the system asks once per downloaded version:
 
-- **Windows** may show a SmartScreen prompt; choose **More info → Run anyway**.
-- **macOS** blocks the first launch; open **System Settings → Privacy & Security**
-  and choose **Open Anyway** for Aftergrave Launcher.
+- **Windows:** SmartScreen → **More info → Run anyway**.
+- **macOS 15 and later:** open the app once and close the warning, then
+  **System Settings → Privacy & Security → Open Anyway** and enter your password.
+  The button stays there for about an hour after the blocked launch.
+- **macOS 12–14:** right-click the app → **Open** → **Open**.
 
-Download the launcher only from this repository.
+Download the launcher only from this repository, and never disable Gatekeeper.
 
 ## Support
 
