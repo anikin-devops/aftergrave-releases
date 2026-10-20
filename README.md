@@ -28,7 +28,9 @@ macOS 12.0 or later, Apple silicon and Intel. Extract the ZIP and move
 
 All versions are under
 [Releases](https://github.com/anikin-devops/aftergrave-releases/releases).
-A running launcher tells you when a newer launcher is available.
+Since 0.3.0 the launcher updates itself: it installs a newer launcher only if its
+signature and checksum match, then restarts. Older launchers ask you to download
+0.3.0 once.
 
 ## How updates work
 
@@ -44,7 +46,8 @@ A running launcher tells you when a newer launcher is available.
 ## Security notes
 
 The launcher is not yet signed by Microsoft or notarized by Apple (that needs paid
-developer accounts), so the system asks once per downloaded version:
+developer accounts), so the system asks once when you open a downloaded copy
+(launcher updates installed by the launcher itself do not ask again):
 
 - **Windows:** SmartScreen → **More info → Run anyway**.
 - **macOS 15 and later:** open the app once and close the warning, then
