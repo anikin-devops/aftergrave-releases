@@ -27,7 +27,8 @@ macOS 12.0 or later, Apple silicon and Intel. Extract the ZIP and move
 `Aftergrave Launcher.app` to Applications; follow the first-launch steps below.
 
 All versions are under
-[Releases](https://github.com/anikin-devops/aftergrave-releases/releases).
+[Releases](https://github.com/anikin-devops/aftergrave-releases/releases); each
+lists the SHA-256 of its files in `SHA256SUMS.txt`.
 Since 0.3.0 the launcher updates itself: it installs a newer launcher only if its
 signature and checksum match, then restarts. Older launchers ask you to download
 0.3.0 once.
